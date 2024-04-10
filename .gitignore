@@ -1,0 +1,5 @@
+/__pycache__/
+/igakit/
+ft07_navier_stokes_channel.py
+*.py~
+modal-analysis.py
